@@ -7,4 +7,7 @@ It should compile without changing anything, but you have to implement your own 
 
 
 
-Cheat valorant UD With realease 
+Cheat valorant UD With updated realease : 
+
+
+![image](https://user-images.githubusercontent.com/99323729/153774161-c3d2715b-cbe2-4758-9862-c50b66f0580c.png)
