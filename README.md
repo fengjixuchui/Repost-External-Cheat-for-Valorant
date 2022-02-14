@@ -9,9 +9,6 @@ It should compile without changing anything, but you have to implement your own 
 
 
 
-
-
-
 Cheat valorant UD With updated realease download here : https://github.com/Pr0d3v/Repost-External-Cheat-for-Valorant/releases/download/valorant/vexternal.exe
 
 
@@ -34,6 +31,8 @@ Cheat valorant UD With updated realease download here : https://github.com/Pr0d3
 
 
 Source : https://github.com/0xLuca/vexternal
+
+
 
 
 
