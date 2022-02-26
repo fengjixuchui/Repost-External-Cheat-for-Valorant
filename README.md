@@ -5,13 +5,6 @@ You have to copy the Roboto-Light.ttf file from the second vexternal folder into
 It should compile without changing anything, but you have to implement your own memory r/w mechanic to work, and you have to implement a guarded regions bypass.
 
 
-
-
-
-
-
-
-
 Cheat valorant UD With updated realease download here : https://github.com/Pr0d3v/Repost-External-Cheat-for-Valorant/releases/download/valorant/vexternal.exe
 
 
@@ -26,3 +19,6 @@ Cheat valorant UD With updated realease download here : https://github.com/Pr0d3
 
 
 Source : https://github.com/0xLuca/vexternal
+
+
+
